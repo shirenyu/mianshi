@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="luban_springaop:war">
+    <output-path>$PROJECT_DIR$/luban_springaop/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>luban_springaop</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="com.zk.war">
+      <element id="artifact" artifact-name="luban_springaop:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java容器/Java容器.iml" filepath="$PROJECT_DIR$/Java容器/Java容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyStudy/NettyStudy.iml" filepath="$PROJECT_DIR$/NettyStudy/NettyStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyStudy2/NettyStudy2.iml" filepath="$PROJECT_DIR$/NettyStudy2/NettyStudy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io操作/io操作.iml" filepath="$PROJECT_DIR$/io操作/io操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban_springaop/luban_springaop.iml" filepath="$PROJECT_DIR$/luban_springaop/luban_springaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mianshi.iml" filepath="$PROJECT_DIR$/mianshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort_algorithm/sort_algorithm.iml" filepath="$PROJECT_DIR$/sort_algorithm/sort_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_aop/test_aop.iml" filepath="$PROJECT_DIR$/test_aop/test_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/并发编程/并发编程.iml" filepath="$PROJECT_DIR$/并发编程/并发编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常/异常.iml" filepath="$PROJECT_DIR$/异常/异常.iml" />
+    </modules>
+  </component>
+</project>
